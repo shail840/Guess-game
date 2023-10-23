@@ -44,3 +44,4 @@ while turns > 0:
 
         if turns == 0:
             print("You Loose")
+                ytsnjcn
